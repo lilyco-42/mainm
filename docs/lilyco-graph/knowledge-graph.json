@@ -1,0 +1,26 @@
+{
+  "meta": {
+    "title": "lilyco knowledge graph",
+    "source": "codegraph",
+    "version": "1.5.0",
+    "nodes": 967,
+    "edges": 3612,
+    "crates": [
+      "lilyco",
+      "lilyco-brush",
+      "lilyco-cli",
+      "lilyco-core",
+      "lilyco-example",
+      "lilyco-ffmpeg",
+      "lilyco-grep",
+      "lilyco-gui",
+      "lilyco-letsgal",
+      "lilyco-macros",
+      "lilyco-mcp",
+      "lilyco-tui",
+      "lilyco-ultra-ui",
+      "lilyco-ultra-ui-example",
+      "lilyco-vision"
+    ]
+  }
+}
