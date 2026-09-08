@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="docs/banner.svg" width="720" alt="banner">
+</div>
+
 # mainm
 
 **一个命令从零产出成片** — Rust CLI · 模板优先 · 约定大于配置
